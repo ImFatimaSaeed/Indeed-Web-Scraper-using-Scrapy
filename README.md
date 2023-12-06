@@ -12,11 +12,11 @@ Scrape Indeed job postings efficiently. Customize searches, extract structured d
 # Run this command in the terminal
 pip install -r requirements.txt
 
-### step 2: Install Scrapy
+
+### Step 2: Install Scrapy
 
 # Run this command in the terminal
 pip install scrapy
-
 
 ### Step 3: Run the Spider
 
@@ -24,4 +24,6 @@ pip install scrapy
 scrapy crawl indeed_search
 
 I hope all the codes will run successfully.
-# End of Instructions
+
+End of Instructions
+ 
