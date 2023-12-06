@@ -1,4 +1,4 @@
-# Web-Scraping-Indeed
+# Web-Scraping-Indeed using scrapy
 
 Scrape Indeed job postings efficiently. Customize searches, extract structured data, and integrate seamlessly with Python tools for easy job market insights and analysis.
 
@@ -9,7 +9,7 @@ Scrape Indeed job postings efficiently. Customize searches, extract structured d
 
 ### Step 1: Install Dependencies
 ```bash
-# Run this command in the terminal
+### Run this command in the terminal
 pip install -r requirements.txt
 
 ### step 2: Install Scrapy
