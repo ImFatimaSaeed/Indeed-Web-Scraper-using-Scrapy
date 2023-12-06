@@ -8,7 +8,7 @@ Scrape Indeed job postings efficiently. Customize searches, extract structured d
 - Ensure you have Visual Studio Code installed.
 
 ### Step 1: Install Dependencies
-```bash
+
 ### Run this command in the terminal
 pip install -r requirements.txt
 
